@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Hritick Jha</h1>
 <h3 align="center">A passionate Software engineer/Cyber security and Networking.</h3>
 
