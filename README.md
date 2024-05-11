@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritickjha&label=Profile%20views&color=0e75b6&style=flat" alt="hritickjha" /> </p>
 
-- 🌱 I’m currently learning **Bachelor of Computer Science**
+- 🌱  Bachelor of Computer Science learning at Leeds Beckett University.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hritickjha](https://github.com/Hritickjha)
 - 📫 How to reach me **jhahritick@gmail.com**
