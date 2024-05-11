@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hritick Jha</h1>
+<h1 align="center">Hritick Jha</h1>
 <h3 align="center">A passionate Software engineer/Cyber security and Networking.</h3>
 
 <img align="right" alt="coding" width="500" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
