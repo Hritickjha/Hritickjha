@@ -1,4 +1,4 @@
-![logo](https://github.com/Hritickjha/Hritickjha/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Hritick Jha</h1>
 <h3 align="center">A passionate Software engineer and Digital Forensics.</h3>
 
