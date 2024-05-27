@@ -27,7 +27,6 @@
 </a>
 
 ### Reach Out
-<img align="right" height="150" src="https://media.tenor.com/5UGuQ1T3DDsAAAAC/naruto-anime.gif" />
 <div align="left">
   <a href="mailto:jhahritick@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=jhahritick@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -39,6 +38,8 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
 </a>
 </div>
+###
+<br clear="both">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritickjha&show_icons=true&locale=en&layout=compact" alt="hritickjha" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hritickjha&show_icons=true&locale=en" alt="hritickjha" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritickjha&" alt="hritickjha" /></p>
