@@ -1,15 +1,20 @@
 <h1 align="center">Hritick Jha</h1>
 <h3 align="center">A passionate Software engineer/Cyber security and Networking.</h3>
 
-<img align="right" alt="coding" width="500" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hritickjha&label=Profile%20views&color=0e75b6&style=flat" alt="hritickjha" /> </p>
+<p align="left"> <a href="https://twitter.com/hey_utkarshh" target="blank"><img src="https://img.shields.io/twitter/follow/hey_utkarshh?logo=twitter&style=for-the-badge" alt="hey_utkarshh" /></a> </p>
 
-- 🌱  Bachelor of Computer Science learning at Leeds Beckett University.
-
+- 🔭 A **Software Developer** with expertise in Backend Development and an understanding of delivering software solutions based on business requirements.
+- 🌱 My interest lies in AI, Automation, DevOps, and Web Security, Software Development.
+- 👯 I’m Exploring the World of **DevOps** and Looking to Collaborate on it.
+- 🤝 I’m good at Project Management, System Architecture, Leadership & Decision making and Collaborative Communication.
 - 👨‍💻 All of my projects are available at [https://github.com/Hritickjha](https://github.com/Hritickjha)
+- 💬 Ask me about **Backend, Cloud, Finance, Productivity, Podcasts, Books, Travel & Life-Experiences !**
 - 📫 How to reach me **jhahritick@gmail.com**
-- ⚡ Fun fact **I am funny😎😎😎**
+- ⚡ Fun fact **You can learn a lot from a book, it's the way how you Implement it.**
+- 🍄 Pro Approach: **In Every Project I've created Issues (closed/open) which help me to document every piece of Code useful for anytime Revision.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
