@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Hritickjha](https://github.com/Hritickjha)
 - 📫 How to reach me: **jhahritick@gmail.com**
 - ⚡ Fun fact: **You can learn a lot from a book, it's the way how you implement it.**
-- 🍄 Pro Approach: **In every project, I've created issues (closed/open) which help me document every piece of code useful for any time revision.**
+- 🍄 Pro Approach: **In every project, I've created issues (closed/open) that help me document every piece of code useful for any time revision.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,24 +33,18 @@
 <a href="https://discord.com/users/utkarsh#9835" target="_blank">
   <img src="https://img.shields.io/static/v1?message=utkarsh9835&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
-<a href="mailto:utkarshuh16@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=utkarshuh16@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+<a href="mailto:jhahritick@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=jhahritick@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
-<a href="https://www.linkedin.com/in/utkarsh-hadgekar-9a0b411a5/" target="_blank">
+<a href="https://www.linkedin.com/in/hritickjha/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-<a href="https://twitter.com/hey_utkarshh" target="_blank">
+<a href="https://twitter.com/JhaHritick" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
 </a>
-<a href="https://hashnode.com/@utkarshAI" target="_blank">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="35" alt="Hashnode logo" />
-</a>
-<a href="https://leetcode.com/utkarsh_uh/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="Leetcode logo" />
-</a>
 </div>
-
 <br clear="both">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritickjha&show_icons=true&locale=en&layout=compact" alt="hritickjha" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hritickjha&show_icons=true&locale=en" alt="hritickjha" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritickjha&" alt="hritickjha" /></p>
+
