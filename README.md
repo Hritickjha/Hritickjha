@@ -1,7 +1,8 @@
 <h1 align="center">Hritick Jha</h1>
 <h3 align="center">A passionate Software Engineer / Cyber Security and Networking.</h3>
 
-<img align="right" alt="coding" width="500" src="https://media1.tenor.com/images/2nKSTDDekOgAAAAC/coding-kira.gif">
+<img align="right" alt="coding" width="500" src="![image](https://github.com/Hritickjha/Hritickjha/assets/117341369/1153d0b1-6437-4469-8f77-3a6c88eca88d)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritickjha&label=Profile%20views&color=0e75b6&style=flat" alt="hritickjha" /> </p>
 
