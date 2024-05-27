@@ -30,8 +30,8 @@
 <img align="right" height="150" src="https://media.tenor.com/5UGuQ1T3DDsAAAAC/naruto-anime.gif" />
 
 <div align="left">
-<a href="https://discord.com/users/utkarsh#9835" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=utkarsh9835&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+<a href="" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=1179056388635377745&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
 <a href="mailto:jhahritick@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=jhahritick@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
