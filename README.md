@@ -1,32 +1,56 @@
 <h1 align="center">Hritick Jha</h1>
-<h3 align="center">A passionate Software engineer/Cyber security and Networking.</h3>
+<h3 align="center">A passionate Software Engineer / Cyber Security and Networking enthusiast.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="500" src="https://media1.tenor.com/images/2nKSTDDekOgAAAAC/coding-kira.gif">
 
-<p align="left"> <a href="https://twitter.com/hey_utkarshh" target="blank"><img src="https://img.shields.io/twitter/follow/hey_utkarshh?logo=twitter&style=for-the-badge" alt="hey_utkarshh" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hritickjha&label=Profile%20views&color=0e75b6&style=flat" alt="hritickjha" /> </p>
 
 - 🔭 A **Software Developer** with expertise in Backend Development and an understanding of delivering software solutions based on business requirements.
-- 🌱 My interest lies in AI, Automation, DevOps, and Web Security, Software Development.
-- 👯 I’m Exploring the World of **DevOps** and Looking to Collaborate on it.
-- 🤝 I’m good at Project Management, System Architecture, Leadership & Decision making and Collaborative Communication.
+- 🌱 My interest lies in AI, Automation, DevOps, Web Security, and Software Development.
+- 👯 I’m exploring the world of **DevOps** and looking to collaborate on it.
+- 🤝 I’m good at Project Management, System Architecture, Leadership & Decision making, and Collaborative Communication.
+- 💬 Ask me about **Backend, Cloud, Finance, Productivity, Podcasts, Books, Travel & Life-Experiences!**
 - 👨‍💻 All of my projects are available at [https://github.com/Hritickjha](https://github.com/Hritickjha)
-- 💬 Ask me about **Backend, Cloud, Finance, Productivity, Podcasts, Books, Travel & Life-Experiences !**
-- 📫 How to reach me **jhahritick@gmail.com**
-- ⚡ Fun fact **You can learn a lot from a book, it's the way how you Implement it.**
-- 🍄 Pro Approach: **In Every Project I've created Issues (closed/open) which help me to document every piece of Code useful for anytime Revision.**
-
+- 📫 How to reach me: **jhahritick@gmail.com**
+- ⚡ Fun fact: **You can learn a lot from a book, it's the way how you implement it.**
+- 🍄 Pro Approach: **In every project, I've created issues (closed/open) which help me document every piece of code useful for any time revision.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/jhahritick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jhahritick" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hritickjha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hritick-jha-1b88aa269/" height="30" width="40" /></a>
+<a href="https://twitter.com/jhahritick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hritickjha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### Tech Stack 
+<a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=typescript,c,cpp,py,java,html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,github,firebase,appwrite,ps,figma,discord,vite,linux,docker,redux,solidity" />
+</a>
 
+### Reach Out
+<img align="right" height="150" src="https://media.tenor.com/5UGuQ1T3DDsAAAAC/naruto-anime.gif" />
+
+<div align="left">
+<a href="https://discord.com/users/utkarsh#9835" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=utkarsh9835&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</a>
+<a href="mailto:utkarshuh16@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=utkarshuh16@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+<a href="https://www.linkedin.com/in/utkarsh-hadgekar-9a0b411a5/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="https://twitter.com/hey_utkarshh" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+</a>
+<a href="https://hashnode.com/@utkarshAI" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="35" alt="Hashnode logo" />
+</a>
+<a href="https://leetcode.com/utkarsh_uh/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="Leetcode logo" />
+</a>
+</div>
+
+<br clear="both">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritickjha&show_icons=true&locale=en&layout=compact" alt="hritickjha" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hritickjha&show_icons=true&locale=en" alt="hritickjha" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritickjha&" alt="hritickjha" /></p>
