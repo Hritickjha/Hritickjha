@@ -1,5 +1,5 @@
 <h1 align="center">Hritick Jha</h1>
-<h3 align="center">A passionate Software Engineer / Cyber Security and Networking enthusiast.</h3>
+<h3 align="center">A passionate Software Engineer / Cyber Security and Networking.</h3>
 
 <img align="right" alt="coding" width="500" src="https://media1.tenor.com/images/2nKSTDDekOgAAAAC/coding-kira.gif">
 
