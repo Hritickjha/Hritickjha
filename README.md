@@ -1,5 +1,5 @@
 <h1 align="center">Hritick Jha</h1>
-<h3 align="center">A passionate Software Engineer / Backend Specialist </h3>
+<h3 align="center">A passionate Software Engineer / Backend Specialist & Devops </h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritickjha&label=Profile%20views&color=0e75b6&style=flat" alt="hritickjha" /> </p>
 
