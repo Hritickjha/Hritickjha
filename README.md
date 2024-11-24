@@ -23,10 +23,11 @@
 
 ### 💼 Tech Stack  
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,py,java,c,c++,html,css,bootstrap,tailwind,react,nextjs,nodejs,mysql,oracle,mongodb,git,github,bitbucket,azure,aws,docker,linux,jenkins,solidity,figma,ps" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript,python,java,c,cplusplus,html,css,bootstrap,tailwind,react,nextjs,nodejs,mysql,oracle,mongodb,git,github,bitbucket,azure,aws,docker,linux,jenkins,solidity,figma,photoshop" alt="Tech Stack" />
   </a>
 </div>
+
 
 ---
 
