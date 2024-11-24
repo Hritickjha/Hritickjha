@@ -67,6 +67,10 @@
   <a href="https://twitter.com/JhaHritick" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
   </a>
+  </a>
+<a href="https://leetcode.com/u/hritickjha/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" alt="LeetCode Profile" />
+</a>
 </div>
 
 ---
