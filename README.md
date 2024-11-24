@@ -23,11 +23,24 @@
 
 ### 💼 Tech Stack  
 <div align="center">
+  <!-- Programming Languages -->
+  <h3>Programming Languages</h3>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript,python,java,c,C#,html,css,bootstrap,tailwind,react,nextjs,nodejs,mysql,oracle,mongodb,git,github,bitbucket,azure,aws,docker,linux,jenkins,solidity,figma,photoshop" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,solidity" alt="Programming Languages" />
+  </a>
+  
+  <!-- Frameworks & Libraries -->
+  <h3>Frameworks & Libraries</h3>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django,express,next,react,tailwind,nodejs,bootstrap,rest" alt="Frameworks and Libraries" />
+  </a>
+  
+  <!-- Tools & Platforms -->
+  <h3>Tools & Platforms</h3>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,figma,netlify,vercel" alt="Tools and Platforms" />
   </a>
 </div>
-
 
 ---
 
