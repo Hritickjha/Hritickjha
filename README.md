@@ -75,12 +75,12 @@
 
 ---
 
-- <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Waving Hand" width="60" style="margin-bottom: 10px;">
   <p style="font-size: 16px; color: #333; line-height: 1.6;">
     <em>
-      <b>I love connecting with different people</b>, so if you want to say 
-      <b>hi</b>, I'll be happy to talk with you more! <span style="color: #ff4500;">😊</span>
+     <b>I enjoy meeting new people and sharing ideas</b>. If you'd like to connect or just say 
+<b>hello</b>, I'd be thrilled to have a conversation with you! <span style="color: #ff4500;">🌟</span>
     </em>
   </p>
 </div>
