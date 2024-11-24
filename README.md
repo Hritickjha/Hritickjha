@@ -22,7 +22,7 @@
 ---
 
 ### 💼 Tech Stack  
-<div align="center">
+<div align="center" style="border: 2px solid #0e75b6; border-radius: 10px; padding: 20px; max-width: 80%; margin: 0 auto; background-color: #f9f9f9;">
   <!-- Programming Languages -->
   <h3>Programming Languages</h3>
   <a href="https://skillicons.dev" target="_blank">
@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,figma,netlify,vercel" alt="Tools and Platforms" />
   </a>
 </div>
+
 
 ---
 
