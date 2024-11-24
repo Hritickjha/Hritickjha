@@ -75,6 +75,13 @@
 
 ---
 
-### ⚡ Pro Tip  
-- 🍄 **Documentation First**: Each of my projects includes issues (open/closed) that document the development process for easy reference and future enhancements.
+- <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Waving Hand" width="60" style="margin-bottom: 10px;">
+  <p style="font-size: 16px; color: #333; line-height: 1.6;">
+    <em>
+      <b>I love connecting with different people</b>, so if you want to say 
+      <b>hi</b>, I'll be happy to talk with you more! <span style="color: #ff4500;">😊</span>
+    </em>
+  </p>
+</div>
 
