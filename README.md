@@ -26,19 +26,19 @@
   <!-- Programming Languages -->
   <h3>Programming Languages</h3>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,r,javascript,java,typescript,python,html,css,php" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,r,javascript,java,typescript,python,html,css,php,go" alt="Programming Languages" />
   </a>
   
   <!-- Frameworks & Libraries -->
   <h3>Frameworks & Libraries</h3>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django,express,next,react,tailwind,nodejs,bootstrap,rest" alt="Frameworks and Libraries" />
+    <img src="https://skillicons.dev/icons?i=django,laravel,express,next,react,tailwind,nodejs,bootstrap,rest" alt="Frameworks and Libraries" />
   </a>
   
   <!-- Tools & Platforms -->
   <h3>Tools & Platforms</h3>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,figma,netlify,vercel" alt="Tools and Platforms" />
+    <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,figma,netlify,azure,bitbucket,kubernetes,vscode,visualstudio,wordpress," alt="Tools and Platforms" />
   </a>
 </div>
 
