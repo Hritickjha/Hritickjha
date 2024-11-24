@@ -26,7 +26,7 @@
   <!-- Programming Languages -->
   <h3>Programming Languages</h3>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,solidity" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,Java,typescript,python,Html,css,R,php" alt="Programming Languages" />
   </a>
   
   <!-- Frameworks & Libraries -->
