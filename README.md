@@ -38,7 +38,7 @@
   <!-- Tools & Platforms -->
   <h3>Tools & Platforms</h3>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,figma,netlify,azure,bitbucket,kubernetes,vscode,visualstudio,wordpress," alt="Tools and Platforms" />
+    <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,figma,azure,bitbucket,kubernetes,vscode,visualstudio,wordpress," alt="Tools and Platforms" />
   </a>
 </div>
 
