@@ -1,6 +1,18 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Welcome" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile Banner" width="80%">
+</p>
+
+<h1 align="center" style="font-family: Arial, sans-serif; color: #333;">
+  🌟 Welcome to My GitHub Profile! 🌟
+</h1>
+
+<p align="center" style="font-size: 16px; color: #555;">
+  I'm glad you're here! Feel free to explore my repositories and connect with me. 🚀
+</p>
 
 <h1 align="center">Hritick Jha</h1>
 <h3 align="center">Passionate Software Engineer & Backend Specialist</h3>
