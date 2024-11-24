@@ -1,18 +1,26 @@
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Welcome" />
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Welcome" width="60" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile Banner" width="80%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile Banner" width="90%" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);" />
 </p>
 
-<h1 align="center" style="font-family: Arial, sans-serif; color: #333;">
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50; font-size: 36px; margin-top: 20px;">
   🌟 Welcome to My GitHub Profile! 🌟
 </h1>
 
-<p align="center" style="font-size: 16px; color: #555;">
-  I'm glad you're here! Feel free to explore my repositories and connect with me. 🚀
+<p align="center" style="font-family: 'Arial', sans-serif; color: #34495e; font-size: 18px; max-width: 80%; line-height: 1.5; margin-top: 10px;">
+  Hello there! I'm thrilled you're here. Feel free to explore my projects and contribute to any of them. 🚀<br>
+  Let's connect and build something amazing together! If you have any questions or ideas, don't hesitate to reach out. 😊
 </p>
+
+<p align="center">
+  <a href="https://github.com/Hritickjha" target="_blank" style="text-decoration: none; font-size: 18px; color: #fff; background-color: #3498db; padding: 10px 20px; border-radius: 30px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
+    Explore My Repositories
+  </a>
+</p>
+
 
 <h1 align="center">Hritick Jha</h1>
 <h3 align="center">Passionate Software Engineer & Backend Specialist</h3>
