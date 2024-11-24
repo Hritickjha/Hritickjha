@@ -17,7 +17,7 @@
 - 🔭 **Software Developer** with a passion for creating scalable and efficient backend solutions.  
 - 🌱 Exploring **AI**, **Automation**, **DevOps**, **Web Security**, and advanced **Software Development** practices.  
 - 🤝 Proficient in **Project Management**, **System Architecture**, **Leadership**, and **Collaborative Communication**.  
-- 👨‍💻 Check out my work: [GitHub Portfolio](https://github.com/Hritickjha)  
+- 👨‍💻 Check out my work: [Portfolio](https://hritickjha.netlify.app/)  
 - 📫 Reach me: **jhahritick@gmail.com**  
 - ⚡ **Fun Fact**: **Books are treasure troves; the magic lies in how you implement their wisdom.**  
 
