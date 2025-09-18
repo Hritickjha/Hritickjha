@@ -45,18 +45,6 @@
   </a>
 </div>
 
-
----
-
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritickjha&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritickjha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritickjha&theme=radical" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 📬 Connect with Me  
