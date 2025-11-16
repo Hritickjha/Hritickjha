@@ -2,7 +2,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h1 align="center">Hritick Jha</h1>
-<h3 align="center">Passionate Software Engineer & DevOps Engineer</h3>
+<h3 align="center">Software Engineer & Information Technology </h3>
 
 <div align="center">
   <img alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
