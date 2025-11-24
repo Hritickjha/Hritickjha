@@ -24,6 +24,14 @@
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ### 💼 Tech Stack  
 <div align="center" style="border: 2px solid #0e75b6; border-radius: 10px; padding: 20px; max-width: 80%; margin: 0 auto; background-color: #f9f9f9;">
   <!-- Programming Languages -->
